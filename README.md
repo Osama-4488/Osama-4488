@@ -2,7 +2,7 @@
 
 I'm Osama from Ethiopia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
 
-Skills:REACT / JS / HTML / CSS / Python / C / C++ / Java / D / C#
+Skills: REACT / JS / HTML / CSS / PYTHON / C / C++ / JAVA / D / C#
 
 - 🔭 I’m currently working on this page. 
 
