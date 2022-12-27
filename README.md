@@ -1,6 +1,7 @@
+# Hi there 👋, I'm Osama Abdu
+
 ![Design and Development ](https://static1.smartbear.co/smartbearbrand/media/images/blog/what%E2%80%99s-the-best-programming-language-to-learn-first.png?ext=.png)
 
-# Hi there 👋, I'm Osama Abdu
 I'm Osama from Ethiopia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
 
 ## Skill And Experience
