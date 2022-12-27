@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Osama
-#### I am GitHub Readme Generator's creator
 
 I'm Osama from Ethiopia, and I do content on Design and Development. I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress. I also enjoy wireframing, ui, ux, and design in general.
 
